@@ -23,7 +23,8 @@ This repository contains the full schematic and PCB layout for the ATmega2560 Io
 
 Getting Started
 Clone the repository:
-"git clone https://github.com/attar2580/ATmega2560-IoT-Communication-Hub.git"
+"git clone https://github.com/attar2580/Industrial-DataLogger-IoT-Comm-Board-
+.git"
 Open the design files: Use your preferred PCB design software (e.g., KiCad, Altium Designer, etc.) to view the schematic and PCB layout.
 Component Assembly: Refer to the BOM to gather the necessary components. Ensure proper assembly based on the schematic.
 Dependencies
